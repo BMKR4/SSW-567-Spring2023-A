@@ -18,3 +18,6 @@ Trianglr.py changes
   
   1. case-1: the output is wrong it is right, it should be scalene
   2. case-2: the output is wrong it is right, it should be scalene
+
+
+[![build status of master](https://travis-ci.org/BMKR4/SSW-567-Spring2023-A.svg?branch=master)](https://travis-ci.org/BMKR4/SSW-567-Spring2023-A)
