@@ -1,4 +1,5 @@
 # SSW-567-Spring2023-A
+[![build status of master](https://travis-ci.org/BMKR4/SSW-567-Spring2023-A.svg?branch=master)](https://travis-ci.org/BMKR4/SSW-567-Spring2023-A)
 
 HW 02a
 
@@ -20,4 +21,4 @@ Trianglr.py changes
   2. case-2: the output is wrong it is right, it should be scalene
 
 
-[![build status of master](https://travis-ci.org/BMKR4/SSW-567-Spring2023-A.svg?branch=master)](https://travis-ci.org/BMKR4/SSW-567-Spring2023-A)
+
