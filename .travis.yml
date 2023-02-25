@@ -2,6 +2,10 @@ language: python
 python:
  - "3.5"
 
+install:
+ - pip install requests
+
 # command to run tests
 script:
  - python -m unittest TestTriangle
+ - python HW 04a\main.py
