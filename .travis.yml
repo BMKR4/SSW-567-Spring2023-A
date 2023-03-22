@@ -4,8 +4,10 @@ python:
 
 install:
  - pip install requests
+env:
+  - API_KEY=supersecretkey
 
 # command to run tests
 script:
  - python -m unittest TestTriangle
- - python HW 04a\main.py
+ - python HW 05a_mocking\main.py
